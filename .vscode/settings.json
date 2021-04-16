@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/581a4000-b59e-4ccd-9331-21da1e292407/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/vanhalenbitclout",
+    "appService.deploySubpath": ".svelte\\output"
+}
